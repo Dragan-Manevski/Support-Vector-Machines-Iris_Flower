@@ -21,7 +21,7 @@
       - **create and choose** the **hyper-plane (line) that separates the classes the best**:
           - for **linearly separable data** -> use hyper-plane that **maximizes the margin between the classes**
           - for **non-linearly separable data** -> use "kernel trick"
-		  - **vector point that touch the margin line** are known as **Support Vectors**
+      - **vector point that touch the margin line** are known as **Support Vectors**
 
 ### --------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting type of Iris Flower
@@ -65,8 +65,8 @@ The Iris Flower dataset contains the following columns:
 2. Load the Data
 3. Set up the Data
 4. Exploratory Data Analysis
-    - 3.1 Check out the Data
-    - 3.2 Data Visualization
+    - 4.1 Check out the Data
+    - 4.2 Data Visualization
 5. Data Preprocessing and Feature Engineering
     - 5.1 Identify the variables
     - 5.2 Dealing with Missing values
@@ -89,7 +89,7 @@ The Iris Flower dataset contains the following columns:
       - 6.7.4 Predictions from the GridSearchCV model (Re-predictions from the Support Vector Machines model) on Testing data
       - 6.7.5 Evaluate the GridSearchCV model (Re-evaluate the Support Vector Machines) on Testing data
         - 1. Classification report
-        - - 2. Confusion matrix
+        - 2. Confusion matrix
 
 #### 4. Executive Summary
 TBA
