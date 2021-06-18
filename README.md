@@ -73,7 +73,7 @@ The Iris Flower dataset contains the following columns:
       - 5.2.1 Dealing with Missing values in Columns
       - 5.2.2 Dealing with Missing values in Rows
     - 5.3 Dealing with the Non-numerical features
-6. Train and Test the K-Nearest Neighbors model
+6. Train and Test the Support Vector Machines model
     - 6.1 Split the columns
     - 6.2 Split the data into Training dataset and Testing dataset
     - 6.3 Create the Support Vector Machines model
@@ -87,7 +87,7 @@ The Iris Flower dataset contains the following columns:
       - 6.7.2 Create the GridSearchCV model (Re-create the Support Vector Machines model)
       - 6.7.3 Train / fit the GridSearchCV model (Re-train / Re-fit the Support Vector Machines model)
       - 6.7.4 Predictions from the GridSearchCV model (Re-predictions from the Support Vector Machines model) on Testing data
-      - 6.7.5 Evaluate the GridSearchCV model (Re-evaluate the Support Vector Machines) on Testing data
+      - 6.7.5 Evaluate the GridSearchCV model (Re-evaluate the Support Vector Machines model) on Testing data
         - 1. Classification report
         - 2. Confusion matrix
 
