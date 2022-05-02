@@ -1,6 +1,6 @@
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 # Support Vector Machines - Iris Flower
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Support Vector Machines:
 - an **algorithm**:
     - based on **Supervised Learning**
@@ -23,7 +23,7 @@
           - for **non-linearly separable data** -> use "kernel trick"
       - **vector point that touch the margin line** are known as **Support Vectors**
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting type of Iris Flower
 Create a model that allows to put in a few features of Iris Flower and returns back a prediction (classification) of the type of Iris Flower. Information about the Iris flower is in a built-in Iris Flower dataset which is imported from Scikit-Learn datasets (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html).
 
@@ -41,7 +41,7 @@ The Iris Flower dataset contains the following columns:
     - class 1 = Iris Versicolour
     - class 2 = Iris Virginica
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
